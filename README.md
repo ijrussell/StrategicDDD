@@ -12,5 +12,5 @@ Suggested reading:
 Videos/Conferences
 
 - DDD Europe -> https://www.youtube.com/channel/UC3PGn-hQdbtRiqxZK9XBGqQ
-- uCon -> https://skillsmatter.com/conferences/11982-con-london-2019-the-conference-on-microservices-ddd-and-software-architecture
+- muCon -> https://skillsmatter.com/conferences/11982-con-london-2019-the-conference-on-microservices-ddd-and-software-architecture
 
