@@ -8,3 +8,9 @@ Suggested reading:
 - Implementing Domain-Driven Design by Vaughn Vernon
 - DDD: The First Fifteen Years by The DDD Community
 - Introducing Event Storming by Alberto Brandolini
+
+Videos/Conferences
+
+- DDD Europe -> https://www.youtube.com/channel/UC3PGn-hQdbtRiqxZK9XBGqQ
+- uCon -> https://skillsmatter.com/conferences/11982-con-london-2019-the-conference-on-microservices-ddd-and-software-architecture
+
